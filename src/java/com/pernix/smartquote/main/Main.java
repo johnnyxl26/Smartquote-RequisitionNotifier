@@ -1,4 +1,4 @@
-package com.pernix.java;
+package java.com.pernix.smartquote.main;
 
 public class Main {
 
